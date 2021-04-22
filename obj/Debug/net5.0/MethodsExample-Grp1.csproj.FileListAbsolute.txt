@@ -1,0 +1,16 @@
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\MethodsExample-Grp1.exe
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\MethodsExample-Grp1.deps.json
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\MethodsExample-Grp1.runtimeconfig.json
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\MethodsExample-Grp1.runtimeconfig.dev.json
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\MethodsExample-Grp1.dll
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\ref\MethodsExample-Grp1.dll
+C:\Users\anguyen\Projects\MethodsExample-Grp1\bin\Debug\net5.0\MethodsExample-Grp1.pdb
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.csprojAssemblyReference.cache
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.AssemblyInfoInputs.cache
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.AssemblyInfo.cs
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.dll
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\ref\MethodsExample-Grp1.dll
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.pdb
+C:\Users\anguyen\Projects\MethodsExample-Grp1\obj\Debug\net5.0\MethodsExample-Grp1.genruntimeconfig.cache
